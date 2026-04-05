@@ -11,7 +11,7 @@
 rychardchagas@github:~$ ./init.sh
 
   [+] Carregando perfil...
-  [+] Usuário   : Rychard Moreira
+  [+] Usuário   : Rychard Chagas
   [+] Alias     : M0R31R4
   [+] Função    : BlueTeam Security Analyst
   [+] Objetivo  : DevSecOps
