@@ -1,23 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Ol%C3%A1%2C+me+chamo+Rychard+%F0%9F%91%8B;Meu+objetivo+%C3%A9+aprimorar+minhas+habilidades;em+Cybersecurity+e+DevSecOps+%F0%9F%94%90%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<p>
-  <b>Cybersecurity Enthusiast</b> &nbsp;·&nbsp; Em rota para <b>DevSecOps</b> &nbsp;·&nbsp; 📍 Espírito Santo, Brasil
-</p>
-
----
-
-## 🔐 Sobre mim
+```
+ __  __   __   ___  ____ _  ___  _ _  
+|  \/  | /  \ | _ \|__ // || _ \| | | 
+| |\/| || () ||   / |_ \| ||   /|_  _|
+|_|  |_| \__/ |_|_\|___/|_||_|_\  |_| 
+```
 
 ```bash
-rychardchagas@github:~$ cat about.txt
+rychardchagas@github:~$ ./init.sh
 
-  🔐  BlueTeam Security Analyst
-  🛠️   Aprendendo Dev para me tornar DevSecOps
-  📍  Brasil
+  [+] Carregando perfil...
+  [+] Usuário   : Rychard Moreira
+  [+] Alias     : M0R31R4
+  [+] Função    : BlueTeam Security Analyst
+  [+] Objetivo  : DevSecOps
+  [+] Localização: Brasil
+  [*] Status    : Aprimorando habilidades... █████░░░░░ 50%
 ```
 
 ---
