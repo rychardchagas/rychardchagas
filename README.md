@@ -42,7 +42,7 @@ rychardchagas@github:~$ ./init.sh
 
 ![Qualys](https://img.shields.io/badge/Qualys-ED2025?style=for-the-badge&logo=qualys&logoColor=white)
 ![Tenable](https://img.shields.io/badge/Tenable-00B388?style=for-the-badge&logo=tenable&logoColor=white)
-![Bitsight](https://img.shields.io/badge/Bitsight-1A1A2E?style=for-the-badge&logo=bitsight&logoColor=00FF88)
+![Bitsight](https://img.shields.io/badge/Bitsight-1A1A2E?style=for-the-badge&logoColor=00FF88)
 
 ---
 
@@ -59,23 +59,19 @@ rychardchagas@github:~$ ./init.sh
 
 ---
 
-## 🏆 Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=rychardchagas&theme=matrix&no-bg=true&no-frame=true&row=1&column=6)
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rychardchagas&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff88&icon_color=00ff88&rank_icon=github)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rychardchagas&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff88&icon_color=00ff88&count_private=true" />
 
-![Streak](https://streak-stats.demolab.com?user=rychardchagas&theme=tokyonight&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardchagas&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff88" />
+
+<img src="https://streak-stats.demolab.com?user=rychardchagas&theme=tokyonight&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
 
 ---
 
 ## 🐍 Contribuições
 
-![Snake Dark](https://github.com/rychardchagas/rychardchagas/blob/output/github-contribution-grid-snake-dark.svg)
+> ⚙️ *Configure o GitHub Action abaixo para ativar a animação da snake*
 
 ---
 
