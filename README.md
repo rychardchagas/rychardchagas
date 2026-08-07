@@ -33,7 +33,7 @@
 
 ---
 
-<h2>🔵 Blue Team Arsenal</h2>
+<h2>🔵 Blue Team </h2>
 
 <h4>Vulnerability Management</h4>
 
