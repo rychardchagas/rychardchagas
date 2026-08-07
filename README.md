@@ -33,7 +33,7 @@
 
 ---
 
-<h2>🔵 Blue Team </h2>
+<h2>🔵 Blue Team Arsenal</h2>
 
 <h4>Vulnerability Management</h4>
 
@@ -120,7 +120,7 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=rychardchagas&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff88&icon_color=00ff88&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardchagas&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff88" />
 
-<img src="https://streak-stats.demolab.com?user=rychardchagas&theme=tokyonight&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rychardchagas&theme=tokyonight&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
 
 ---
 
